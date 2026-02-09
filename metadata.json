@@ -1,0 +1,5 @@
+{
+  "name": "Smart Attendance Tracker",
+  "description": "A modern, persistent attendance tracker initialized from college records to help students maintain the 80% criteria.",
+  "requestFramePermissions": []
+}
